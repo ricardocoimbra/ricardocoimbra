@@ -1,5 +1,6 @@
 ## Olá! Eu sou a Ricardo Coimbra 
-[![Ricardo Coimbra GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardocoimbra)](https://github.com/ricardocoimbra/github-readme-stats)
+![Ricardo Coimbra GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardocoimbra)](https://github.com/ricardocoimbra/github-readme-stats)
+![Ricardo Coimbra GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardocoimbra&hide=contribs,prs)
  <div>
   <a href="https://github.com/ricardocoimbra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardocoimbra&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
